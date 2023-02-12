@@ -1,0 +1,15 @@
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.AssemblyReference.cache
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Form1.resources
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.Properties.Resources.resources
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.GenerateResource.cache
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\bin\Debug\WebDriver.dll
+C:\Users\정경진\Documents\workspace\WebCrawler\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
